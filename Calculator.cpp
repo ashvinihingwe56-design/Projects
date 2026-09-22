@@ -7,7 +7,7 @@ int main() {
     char choice;
 
     do {
-       // Cear Screen
+    
         system("clear");    
 
         cout << "====================================" << endl;
